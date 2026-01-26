@@ -12,6 +12,7 @@
 ## Ops & Setup
 
 - ⚙️ **[dotfiles-nix](https://github.com/NicolaiSchmid/dotfiles-nix)** · nix-darwin config for bootstrapping Macs (Rosetta, apps, keyboard layout, Raycast sync notes, rebuild via `darwin-rebuild switch`).
+- 🌐 **[dns](https://github.com/NicolaiSchmid/dns)** · DNS configuration data for personal zones.
 
 ## Elsewhere
 
