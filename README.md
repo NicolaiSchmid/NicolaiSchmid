@@ -15,4 +15,4 @@
 
 ## Elsewhere
 
-[nicolaischmid.com](https://nicolaischmid.com) · [LinkedIn](https://www.linkedin.com/in/nicolaischmid) · [nunc.immo](https://nunc.immo)
+[nicolaischmid.com](https://nicolaischmid.com) · [LinkedIn](https://www.linkedin.com/in/nicolaischmid) · [𝕏](https://x.com/NicolaiSchmid) · [nunc.immo](https://nunc.immo)
