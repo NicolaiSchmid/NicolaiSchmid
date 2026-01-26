@@ -5,10 +5,17 @@
 ## In Build Mode
 
 - 🏛️ **[Gesetz.sh](https://github.com/NicolaiSchmid/gesetze)** · a fast, keyboard-first interface for browsing all German federal laws—like `gesetz.sh/stgb/1` for the criminal code. Use `cmd + k` and `j`/`k` shortcuts to navigate.
-- 🔐 **[agent-inbox-tools](https://github.com/NicolaiSchmid/agent-inbox-tools)** · inbox skills for coding agents—Signal Desktop search (SQLCipher decryption via keychain) + Apple Mail search (direct SQLite). Sub-second queries. `pnpm dlx skills add nicolaischmid/agent-inbox-tools`
 - ☄️ **[Smart OCR for Raycast](https://github.com/raycast/extensions/pull/18244)** · Raycast Store extension grabbing clipboard screenshots and pushing them through Gemini 2.0 Flash for instant text output.
 - 🌧️ **[Deutscher Wetterdienst for Raycast](https://www.raycast.com/nicolai/deutscherwetterdienst)** · Raycast Store extension showing current rain radar from Deutscher Wetter Dienst.
 - 🏗️ **[furnish-cli](https://github.com/NicolaiSchmid/furnish-cli)** · Bun CLI that stages construction photos into finished interiors via ordered subtasks (floors→doors→kitchen→furniture→lighting) with resume-able manifests (needed that for [nunc.immo](https://nunc.immo)).
+
+## Agent Skills
+
+Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/agent-skills):
+
+- 💬 **[signal-history-search](https://github.com/NicolaiSchmid/agent-skills)** · search Signal Desktop message history on macOS with sub-second queries (SQLCipher decryption via keychain).
+- 📧 **[apple-mail-search](https://github.com/NicolaiSchmid/agent-skills)** · search Apple Mail messages on macOS via direct SQLite queries.
+- 📄 **[paperless-search](https://github.com/NicolaiSchmid/agent-skills)** · search Paperless-ngx documents.
 
 ## Ops & Setup
 
