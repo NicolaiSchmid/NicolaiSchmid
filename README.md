@@ -13,9 +13,9 @@
 
 Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/agent-skills):
 
-- 💬 **[signal-history-search](https://github.com/NicolaiSchmid/agent-skills)** · search Signal Desktop message history on macOS with sub-second queries (SQLCipher decryption via keychain).
-- 📧 **[apple-mail-search](https://github.com/NicolaiSchmid/agent-skills)** · search Apple Mail messages on macOS via direct SQLite queries.
-- 📄 **[paperless-search](https://github.com/NicolaiSchmid/agent-skills)** · search Paperless-ngx documents.
+- 💬 **[signal-history-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/signal-history-search)** · search Signal Desktop message history on macOS with sub-second queries (SQLCipher decryption via keychain).
+- 📧 **[apple-mail-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/apple-mail-search)** · search Apple Mail messages on macOS via direct SQLite queries.
+- 📄 **[paperless-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/paperless-search)** · search Paperless-ngx documents.
 
 ## Ops & Setup
 
