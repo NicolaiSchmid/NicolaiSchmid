@@ -16,6 +16,7 @@ Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/age
 - 💬 **[signal-history-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/signal-history-search)** · search Signal Desktop message history on macOS with sub-second queries (SQLCipher decryption via keychain).
 - 📧 **[apple-mail-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/apple-mail-search)** · search Apple Mail messages on macOS via direct SQLite queries.
 - 📄 **[paperless-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/paperless-search)** · search Paperless-ngx documents.
+- 🔍 **[exa-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/exa-search)** · search the web using Exa's AI-powered API (semantic search, content extraction, answers, deep research).
 
 ## Ops & Setup
 
