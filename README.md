@@ -13,10 +13,10 @@
 
 Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/agent-skills):
 
-- 💬 **[signal-history-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/signal-history-search)** · search Signal Desktop message history on macOS with sub-second queries (SQLCipher decryption via keychain).
-- 📧 **[apple-mail-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/apple-mail-search)** · search Apple Mail messages on macOS via direct SQLite queries.
-- 📄 **[paperless-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/paperless-search)** · search Paperless-ngx documents.
-- 🔍 **[exa-search](https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/exa-search)** · search the web using Exa's AI-powered API (semantic search, content extraction, answers, deep research).
+- 💬 **signal-history-search** ([→ skills.sh](https://skills.sh/nicolaischmid/agent-skills/signal-history-search)) · search Signal Desktop message history on macOS with sub-second queries (SQLCipher decryption via keychain).
+- 📧 **apple-mail-search** ([→ skills.sh](https://skills.sh/nicolaischmid/agent-skills/apple-mail-search)) · search Apple Mail messages on macOS via direct SQLite queries.
+- 📄 **paperless-search** ([→ skills.sh](https://skills.sh/nicolaischmid/agent-skills/paperless-search)) · search Paperless-ngx documents.
+- 🔍 **exa-search** ([→ skills.sh](https://skills.sh/nicolaischmid/agent-skills/exa-search)) · search the web using Exa's AI-powered API (semantic search, content extraction, answers, deep research).
 
 ## Ops & Setup
 
