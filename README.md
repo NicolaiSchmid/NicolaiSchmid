@@ -11,6 +11,10 @@
 - 🏗️ **[furnish-cli](https://github.com/NicolaiSchmid/furnish-cli)** · Bun CLI that stages construction photos into finished interiors via ordered subtasks (floors→doors→kitchen→furniture→lighting) with resume-able manifests (needed that for [nunc.immo](https://nunc.immo)).
 - 📄 **[clean-ats-cv](https://github.com/NicolaiSchmid/clean-ats-cv)** · a clean, ATS-friendly CV template for [Typst](https://typst.app) with customizable colors and social icons—available on Typst Universe as `@preview/clean-ats-cv:0.1.0`.
 
+## TBD
+
+- 🧭 **[Lineo](https://github.com/NicolaiSchmid/lineo)** · open-source, API-first funnel builder with immutable versioned schemas, answer-based branching, and tenant-scoped slugs. Built for oRPC/MCP-first workflows, Convex Auth admin, and BYO PostHog plus outbound Meta lead sync.
+
 ## Products
 
 - 🤖 **[cosma.app](https://cosma.app)** · agentic AI assistant for enterprise teams—autonomous workflows over your knowledge base, documents, and internal tools.
