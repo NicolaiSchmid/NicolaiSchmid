@@ -17,6 +17,7 @@
 ## Products
 
 - 🌉 **[Pons](https://github.com/NicolaiSchmid/pons)** · WhatsApp Business API bridge with MCP support—send and receive WhatsApp messages from Claude, Cursor, or any MCP client. Multi-tenant, real-time, with scoped API keys.
+- 🧠 **[nicool.ai](https://nicool.ai)** · personal agent with WhatsApp-native memory, connected tools, and reliable execution.
 - 🤖 **[cosma.app](https://cosma.app)** · agentic AI assistant for enterprise teams—autonomous workflows over your knowledge base, documents, and internal tools.
 - 🌍 **[noll.to](https://noll.to)** · privacy-first translation for documents, text, and images—preserving formatting.
 - 🏠 **[nunc.immo](https://nunc.immo)** · AI-enabled neo-broker for the German rental market.
