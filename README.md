@@ -4,7 +4,6 @@
 
 ## In Build Mode
 
-- 🌉 **[Pons](https://github.com/NicolaiSchmid/pons)** · WhatsApp Business API bridge with MCP support—send and receive WhatsApp messages from Claude, Cursor, or any MCP client. Multi-tenant, real-time, with scoped API keys.
 - 🏛️ **[Gesetz.sh](https://github.com/NicolaiSchmid/gesetze)** · a fast, keyboard-first interface for browsing all German federal laws—like `gesetz.sh/stgb/1` for the criminal code. Use `cmd + k` and `j`/`k` shortcuts to navigate.
 - ☄️ **[Smart OCR for Raycast](https://github.com/raycast/extensions/pull/18244)** · Raycast Store extension grabbing clipboard screenshots and pushing them through Gemini 2.0 Flash for instant text output.
 - 🌧️ **[Deutscher Wetterdienst for Raycast](https://www.raycast.com/nicolai/deutscherwetterdienst)** · Raycast Store extension showing current rain radar from Deutscher Wetter Dienst.
@@ -17,6 +16,7 @@
 
 ## Products
 
+- 🌉 **[Pons](https://github.com/NicolaiSchmid/pons)** · WhatsApp Business API bridge with MCP support—send and receive WhatsApp messages from Claude, Cursor, or any MCP client. Multi-tenant, real-time, with scoped API keys.
 - 🤖 **[cosma.app](https://cosma.app)** · agentic AI assistant for enterprise teams—autonomous workflows over your knowledge base, documents, and internal tools.
 - 🌍 **[noll.to](https://noll.to)** · privacy-first translation for documents, text, and images—preserving formatting.
 - 🏠 **[nunc.immo](https://nunc.immo)** · AI-enabled neo-broker for the German rental market.
