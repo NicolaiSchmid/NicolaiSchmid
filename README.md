@@ -1,23 +1,26 @@
 # Hey, I'm Nicolai 👋
 
-> Current obsession: fast interfaces for real-world ops—laws, chat archives, staging interiors, desktop automation.
-
-## In Build Mode
-
-- 🏛️ **[Gesetz.sh](https://github.com/NicolaiSchmid/gesetze)** · a fast, keyboard-first interface for browsing all German federal laws—like `gesetz.sh/stgb/1` for the criminal code. Use `cmd + k` and `j`/`k` shortcuts to navigate.
-- ☄️ **[Smart OCR for Raycast](https://github.com/raycast/extensions/pull/18244)** · Raycast Store extension grabbing clipboard screenshots and pushing them through Gemini 2.0 Flash for instant text output.
-- 🌧️ **[Deutscher Wetterdienst for Raycast](https://www.raycast.com/nicolai/deutscherwetterdienst)** · Raycast Store extension showing current rain radar from Deutscher Wetter Dienst.
-- 🏗️ **[furnish-cli](https://github.com/NicolaiSchmid/furnish-cli)** · Bun CLI that stages construction photos into finished interiors via ordered subtasks (floors→doors→kitchen→furniture→lighting) with resume-able manifests (needed that for [nunc.immo](https://nunc.immo)).
-- 📄 **[clean-ats-cv](https://github.com/NicolaiSchmid/clean-ats-cv)** · a clean, ATS-friendly CV template for [Typst](https://typst.app) with customizable colors and social icons—available on Typst Universe as `@preview/clean-ats-cv:0.1.0`.
+> Agent-native infra and products for the stuff I actually deal with: money, taxes, work, messages, documents, and building software.
 
 ## Products
 
-- 🧠 **[nicool.ai](https://nicool.ai)** · personal agent with WhatsApp-native memory, connected tools, and reliable execution.
-- 🛠️ **[getdrio.com](https://www.getdrio.com)** · visual builder for AI-native apps that connects APIs and publishes to ChatGPT, Claude, Cursor, and 70+ AI clients.
-- 🏠 **[nunc.immo](https://nunc.immo)** · AI-enabled neo-broker for the German rental market.
-- 🤖 **[cosma.app](https://cosma.app)** · agentic AI assistant for enterprise teams—autonomous workflows over your knowledge base, documents, and internal tools.
-- 🌍 **[noll.to](https://noll.to)** · privacy-first translation for documents, text, and images—preserving formatting.
-- 🌉 **[Pons](https://github.com/NicolaiSchmid/pons)** · WhatsApp Business API bridge with MCP support—send and receive WhatsApp messages from Claude, Cursor, or any MCP client. Multi-tenant, real-time, with scoped API keys.
+- 🛠️ **[getdrio.com](https://www.getdrio.com)** · visual builder for MCP apps with widget UIs. Publish apps to ChatGPT, Claude, Cursor, and other AI clients.
+- 🧊 **Subzero** · outbound email execution system with approved campaigns, inboxes, warmup, reply tracking, and CRM notifications.
+- 🧾 **[Sona](https://github.com/NicolaiSchmid/sona)** · personal tax backoffice for receipts, invoices, portfolio events, depreciation, reconciliation, and tax-ready exports.
+- 🤖 **[cosma.app](https://cosma.app)** · agentic AI assistant for enterprise teams working across documents, knowledge bases, and internal tools.
+- 🌍 **[noll.to](https://noll.to)** · privacy-first translation for documents, text, and images, preserving formatting.
+- 🧠 **[nicool.ai](https://nicool.ai)** *(deprecated)* · personal agent with WhatsApp-native memory, connected tools, and reliable execution.
+- 🏠 **[nunc.immo](https://nunc.immo)** *(deprecated)* · AI-enabled neo-broker for the German rental market.
+
+## Projects
+
+- 💬 **[whatsapp-conduit](https://github.com/NicolaiSchmid/whatsapp-conduit)** · passive WhatsApp linked-device sync into SQLite. Not a bot, not an auto-replier.
+- 🌉 **[Pons](https://github.com/NicolaiSchmid/pons)** · WhatsApp Business API bridge with MCP support. Multi-tenant, real-time, with scoped API keys.
+- 🏛️ **[Gesetz.sh](https://github.com/NicolaiSchmid/gesetze)** · keyboard-first interface for browsing German federal laws, like `gesetz.sh/stgb/1` for the criminal code.
+- 🏗️ **[furnish-cli](https://github.com/NicolaiSchmid/furnish-cli)** · Bun CLI that stages construction photos into finished interiors via ordered subtasks and resumable manifests.
+- ☄️ **[Smart OCR for Raycast](https://github.com/raycast/extensions/pull/18244)** · Raycast Store extension grabbing clipboard screenshots and pushing them through Gemini 2.0 Flash for instant text output.
+- 🌧️ **[Deutscher Wetterdienst for Raycast](https://www.raycast.com/nicolai/deutscherwetterdienst)** · Raycast Store extension showing current rain radar from Deutscher Wetterdienst.
+- 📄 **[clean-ats-cv](https://github.com/NicolaiSchmid/clean-ats-cv)** · clean, ATS-friendly CV template for [Typst](https://typst.app), available on Typst Universe as `@preview/clean-ats-cv:0.1.0`.
 
 ## Agent Skills
 
@@ -30,7 +33,7 @@ Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/age
 
 ## Ops & Setup
 
-- ⚙️ **[dotfiles-nix](https://github.com/NicolaiSchmid/dotfiles-nix)** · nix-darwin config for bootstrapping Macs (Rosetta, apps, keyboard layout, Raycast sync notes, rebuild via `darwin-rebuild switch`).
+- ⚙️ **[dotfiles-nix](https://github.com/NicolaiSchmid/dotfiles-nix)** · nix-darwin config for bootstrapping Macs, servers, agents, and tooling.
 - 🌐 **[dns](https://github.com/NicolaiSchmid/dns)** · DNS configuration data for personal zones.
 
 ## TBD
@@ -39,4 +42,4 @@ Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/age
 
 ## Elsewhere
 
-[nicolaischmid.com](https://nicolaischmid.com) · [LinkedIn](https://www.linkedin.com/in/nicolaischmid) · [𝕏](https://x.com/NicolaiSchmid) · [nunc.immo](https://nunc.immo)
+[nicolaischmid.com](https://nicolaischmid.com) · [LinkedIn](https://www.linkedin.com/in/nicolaischmid) · [𝕏](https://x.com/NicolaiSchmid)
