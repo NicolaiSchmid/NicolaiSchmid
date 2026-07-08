@@ -33,6 +33,7 @@ Skills for coding agents via [agent-skills](https://github.com/NicolaiSchmid/age
 
 ## Ops & Setup
 
+- 🏔️ **[agent-infra](https://github.com/NicolaiSchmid/agent-infra)** · NixOS infrastructure for a portable AI agent workstation: Hetzner bare metal, libvirt VM, T3 Code, Hermes, Codex, Claude, and persisted agent state.
 - ⚙️ **[dotfiles-nix](https://github.com/NicolaiSchmid/dotfiles-nix)** · nix-darwin config for bootstrapping Macs, servers, agents, and tooling.
 - 🌐 **[dns](https://github.com/NicolaiSchmid/dns)** · DNS configuration data for personal zones.
 
